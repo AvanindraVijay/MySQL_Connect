@@ -1,0 +1,10 @@
+mysql-connector-python
+python-dotenv
+langchain
+langchain-community
+langchainhub
+openai
+ctransformers
+requests
+streamlit
+llama-index
